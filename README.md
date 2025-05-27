@@ -1,8 +1,11 @@
-# menna
+
+
 <h1 align="center">Hello 👋, I'm Mennatuallah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Accessorise**
+
+- 💬 Ask me about **"A Computer Science student passionate about programming, design, and modern educational technologies. Skilled in UI design using HTML, CSS, and Adobe XD, and experienced in creating VR projects with VRealm Builder and Simulink — including a full educational train simulation. I aim to combine creativity with technology to build engaging, interactive learning experiences, and I’m always looking to grow in the fields of e-learning and digital innovation."**
 
 - ⚡ Fun fact **Servius Tullius, the king of Rome, celebrates a triumph for his victory over the Etruscans.**
 
